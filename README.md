@@ -36,3 +36,20 @@ I lost access to my original repository. All current and future SNHU repository 
     This project has helped me to write programs that are adaptable by forcing me to consider how programs need to be able to operate on increasingly larger data sets with increasingly larger scope.
   
 **COURSE CS 255 System Analysis & Design**
+
+- Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+What did you do particularly well?
+
+    The DriverPass project was a system which would allow users and staff to easily create reservations for driving lessons. Users could make payments, changes to reservations, and select service packages. The client was the boss of DriverPass. They wanted me to create a cloud-based design which would give real-time updates. What I did particularly well was I was able to segment each of the stated requirements into necessary classes that could be assigned functions and attributes to maximize code reusability.
+   
+- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+    I think I would strip some of the visual representations of their complexity. This would help to make non-technical users easily understand how the system works.
+  
+- How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+    Listening to the user's needs is the most important step to system design. In a real-world scenario, asking questions and getting clarification is the best way to ensure that user's are happy with the final product.
+  
+- How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+    Breaking things into classes is a strategy that I like to use in order to maximize code reusability. You can find potential classes by analyzing the different components of a system and determining which of them would benefit from a class structure. 
