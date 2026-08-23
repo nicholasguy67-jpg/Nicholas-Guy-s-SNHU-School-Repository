@@ -1,6 +1,7 @@
 # Nicholas-Guy-s-SNHU-School-Repository
 I lost access to my original repository. All current and future SNHU repository assignments are posted here.
 
+**COURSE MS 250 Software Development Lifecycle**
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
   Interpeting user needs is more of an art than a science. Listening to what they want is the first step. However, users may not clearly articulate what they are looking for. Creating user stories helps to identify which needs are most important and can also create a basic framework for how the project should move forward.
