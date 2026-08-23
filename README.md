@@ -11,4 +11,27 @@ I lost access to my original repository. All current and future SNHU repository 
 
 - What does it mean to be a good team member in software development?
 
-  A good team member is someone who does thier work on time, keeps others informed, and helps out where others need help. 
+  A good team member is someone who does thier work on time, keeps others informed, and helps out where others need help.
+  
+**COURSE CS 300 Analysis & Design**
+- What was the problem you were solving in the projects for this course?
+
+    The problem that I was trying to solve was a way for courses to be stored and looked-up/loaded with their prerequisites for a school student portal.
+  
+- How did you approach the problem? Consider why data structures are important to understand.
+
+    I approached the problem by trying to find the most efficient way for the system to accomplish it's task.
+  
+- How did you overcome any roadblocks you encountered while going through the activities or project?
+
+    I used the resources available to me (internet / tutoring) to help me when I was stuck.
+  
+- How has your work on this project expanded your approach to designing software and developing programs?
+
+    This project has shifted my thinking to be more concerned about runtime and how real-world projects need to operate quickly on large data sets.
+  
+- How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+    This project has helped me to write programs that are adaptable by forcing me to consider how programs need to be able to operate on increasingly larger data sets with increasingly larger scope.
+  
+**COURSE CS 255 System Analysis & Design**
